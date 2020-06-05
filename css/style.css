@@ -1,0 +1,29 @@
+body {
+  width: 100%;
+}
+.main-conteiner {
+  max-width: 1600px;
+  margin: auto;
+  background-image: url("../ress/img/bg/bg-main-conteiner.png");
+  height: 4150px;
+}
+.home-conteiner {
+  background-image: url("../ress/img/bg/home-bg.png");
+  width: 100%;
+  height: 2200px;
+}
+.about-us-conteiner {
+  height: 780px;
+}
+.statistic-conteiner {
+  height: 330px;
+  background-color: #d13311;
+}
+.info-conteiner {
+  height: 650px;
+  background-image: url("../ress/img/bg/info-bg.png");
+}
+.menu-footer-conteiner {
+  height: 190px;
+  background-color: black;
+}
