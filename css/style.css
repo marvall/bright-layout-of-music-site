@@ -124,7 +124,25 @@ body {
 .statistic-conteiner {
   height: 330px;
   background-color: #d13311;
+  display: flex;
 }
+.statistic-content {
+  margin: auto;
+  font-size: 80px;
+}
+.statistic-text {
+  text-align: center;
+  margin: auto;
+  color: white;
+  text-transform: uppercase;
+  font-weight: 300;
+  font-size: 25px;
+}
+/*     
+
+
+
+*/
 .info-conteiner {
   height: 650px;
   background-image: url("../ress/img/bg/info-bg.png");
