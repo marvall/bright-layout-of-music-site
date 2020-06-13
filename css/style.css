@@ -6,7 +6,7 @@ body {
   max-width: 1600px;
   margin: auto;
   background-image: url("../ress/img/bg/bg-main-conteiner.png");
-  height: 4150px;
+  height: 2920px;
 }
 /*
 
@@ -147,6 +147,25 @@ body {
   height: 650px;
   background-image: url("../ress/img/bg/info-bg.png");
 }
+.info-content-block {
+  width: 960px;
+  height: 650px;
+}
+.info-header {
+  float: right;
+  margin-top: 260px;
+}
+.info-text {
+  margin-top: 20px;
+  margin-left: 320px;
+  float: right;
+  text-align: center;
+  opacity: 0.7;
+}
+/*
+
+
+*/
 .menu-footer-conteiner {
   height: 190px;
   background-color: black;
